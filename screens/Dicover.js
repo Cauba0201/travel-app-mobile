@@ -146,7 +146,6 @@ const Dicover = () => {
                 <View className="justify-center items-center space-y-8 w-full h-[300px]">
                   <Image source={NotFound} className="h-32 w-32 object-cover" />
                   <Text className="text-[#466c70] font-bold text-2xl">
-                    {" "}
                     Opss... Not Data Found !!!
                   </Text>
                 </View>
